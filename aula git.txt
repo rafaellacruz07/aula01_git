@@ -1,0 +1,31 @@
+C:\Users\etechas>d:> md 2BI_RAFAEROBERTA
+
+D:\>cd 2BI_RAFAEROBERTA
+O sistema não pode encontrar o caminho especificado.
+
+D:\>DIR
+ O volume na unidade D é DADOS
+ O Número de Série do Volume é 4670-5AFA
+
+ Pasta de D:\
+
+06/02/2023  14:34    <DIR>          2ai
+06/02/2023  08:03    <DIR>          3ai
+22/06/2022  02:03    <DIR>          ISOs
+06/02/2023  08:04    <DIR>          Projetos
+               0 arquivo(s)              0 bytes
+               4 pasta(s)   133.419.307.008 bytes disponíveis
+
+D:\>md 2BI_RAFAEROBERTA
+
+D:\>CD 2BI_RAFAEROBERTA
+
+D:\2BI_RAFAEROBERTA>
+D:\2BI_RAFAEROBERTA>git config --global user.name "rafaeroberta"
+
+D:\2BI_RAFAEROBERTA>git config --global user.email "faella0610cruz@gmail.com"
+D:\2BI_RAFAEROBERTA>md aula01
+
+D:\2BI_RAFAEROBERTA>cd aula01
+
+D:\2BI_RAFAEROBERTA\aula01>git init
